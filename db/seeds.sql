@@ -1,4 +1,4 @@
-INSERT INTO cats (name) VALUES ('Meatstick', true);
-INSERT INTO cats (name) VALUES ('Holeman and Finch', true);
-INSERT INTO cats (name, sleepy) VALUES ('TGM');
-INSERT INTO cats (name, sleepy) VALUES ('Bocado');
+INSERT INTO burger (burger_name, devoured) VALUES ('Meatstick', true);
+INSERT INTO burger (burger_name, devoured) VALUES ('Holeman and Finch', true);
+INSERT INTO burger (burger_name) VALUES ('TGM');
+INSERT INTO burger (burger_name) VALUES ('Bocado');
